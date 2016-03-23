@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "WordPress PHP Plugin", "index.html", [
+  [ "Wordpress Plugin", "index.html", [
     [ "README", "md_D:_TGM_4CHIT_INSY_Borko_CMS_Plugin_Wordpress-Plugin_README.html", null ],
     [ "Files", null, [
       [ "File List", "files.html", "files" ],

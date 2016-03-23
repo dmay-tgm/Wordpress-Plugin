@@ -13,8 +13,13 @@ var NAVTREEINDEX0 =
 "globals_func.html":[1,1,1],
 "index.html":[],
 "md_D:_TGM_4CHIT_INSY_Borko_CMS_Plugin_Wordpress-Plugin_README.html":[0],
-"own-plugin_8php.html":[1,0,0,0,0,0,0,0,0,0,0],
-"own-plugin_8php.html#ac7488320eb580ab201a7122eca1a4bf3":[1,0,0,0,0,0,0,0,0,0,0,0],
-"own-plugin_8php_source.html":[1,0,0,0,0,0,0,0,0,0,0],
+"own-plugin-final_8php.html":[1,0,0,0,0,0,0,0,0,0,0],
+"own-plugin-final_8php.html#ac408a7a1f535debf3ab236789218b194":[1,0,0,0,0,0,0,0,0,0,0,0],
+"own-plugin-final_8php.html#ac7dc576be88c465c9811ea3c8e91460e":[1,0,0,0,0,0,0,0,0,0,0,1],
+"own-plugin-final_8php_source.html":[1,0,0,0,0,0,0,0,0,0,0],
+"own-plugin-testing_8php.html":[1,0,0,0,0,0,0,0,0,0,1],
+"own-plugin-testing_8php.html#a7384f3ee2e31f106f07a973c2070398c":[1,0,0,0,0,0,0,0,0,0,1,0],
+"own-plugin-testing_8php.html#ac7488320eb580ab201a7122eca1a4bf3":[1,0,0,0,0,0,0,0,0,0,1,1],
+"own-plugin-testing_8php_source.html":[1,0,0,0,0,0,0,0,0,0,1],
 "pages.html":[]
 };
